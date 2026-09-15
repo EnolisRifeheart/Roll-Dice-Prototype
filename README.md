@@ -15,3 +15,18 @@ Would need to implement a lock that prevents player movement once. But we just f
 
 If I had more time, I would want to create an enemy class and simulate AI Pathfinding. I was hoping to use a switch to play around with it as well. 
 
+What went well?
+
+Building the initial grid, playing around with the dice settings and getting a proper dice roll that feels good.
+
+What didn’t go well?
+
+Trying to finish just the movement. I had an idea for rpg attacks with coroutines but didn't even get a chance to tackle them.
+
+What challenges did you face?
+
+Honestly, just a creative idea to be inspired. I thought maybe making a Dice Roller with some Tactical settings would be cool. The baseline is alright for just a starter project seems alright. I think once movement would be fine tuned, getting the actions would be a bit manageable. 
+
+What would I aim to do differently?
+
+More research, find more inspiration
